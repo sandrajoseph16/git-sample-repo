@@ -7,4 +7,5 @@ git add
 git commit -m ""
 git log
 git diff <filename>
+git diff --cached
 
