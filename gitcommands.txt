@@ -9,6 +9,24 @@ git log
 git diff <filename>
 git diff --cached
 
+Scenario 1:
+First release-> Done
+Second release 2 Features 2 people
+Third release 1 Feature 1 people
+
+Scenario 2:
+Two people
+Person A - > 
+Person. B ->
+
+testMethod1
+
+Person A
+Person B
+
+Scenario 3:
+1 Person - > 2 different features
+
 		Private Branch1----------
 		|			|	
 ------------Master ------ Release -----Master-------Master -----Release---Master---
