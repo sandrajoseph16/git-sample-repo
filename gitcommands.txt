@@ -9,3 +9,8 @@ git log
 git diff <filename>
 git diff --cached
 
+		Private Branch1----------
+		|			|	
+------------Master ------ Release -----Master-------Master -----Release---Master---
+		|					|
+		PrivateBranch2------------------------Pull and then merge
